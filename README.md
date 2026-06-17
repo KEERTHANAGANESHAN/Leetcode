@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
