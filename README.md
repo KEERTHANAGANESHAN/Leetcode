@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2129-capitalize-the-title](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/2129-capitalize-the-title) |
 ## String Matching
 |  |
 | ------- |
