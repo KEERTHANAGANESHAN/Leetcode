@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0134-gas-station) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0200-number-of-islands) |
 ## Recursion
