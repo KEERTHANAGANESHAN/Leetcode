@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0135-candy) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0200-number-of-islands) |
 ## Matrix
