@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0189-rotate-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
