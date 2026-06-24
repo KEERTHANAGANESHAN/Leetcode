@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0520-detect-capital) |
 | [2129-capitalize-the-title](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/2129-capitalize-the-title) |
 ## String Matching
