@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0130-surrounded-regions) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0189-rotate-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
