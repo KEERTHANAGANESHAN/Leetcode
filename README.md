@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0172-factorial-trailing-zeroes](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0189-rotate-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
