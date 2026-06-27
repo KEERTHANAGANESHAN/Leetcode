@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0190-reverse-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
