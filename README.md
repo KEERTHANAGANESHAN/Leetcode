@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0189-rotate-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Queue
