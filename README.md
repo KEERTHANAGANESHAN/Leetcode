@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0520-detect-capital) |
