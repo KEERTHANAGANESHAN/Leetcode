@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/KEERTHANAGANESHAN/Leetcode/tree/master/0520-detect-capital) |
